@@ -27,8 +27,8 @@ Now for the final step, replace "ADD SUBREDDIT HERE' on line 20 with the subredd
 Boom, run the script and enjoy
 
 
-#How do i adjust how old a post can be before I get an alert?
+## How do i adjust how old a post can be before I get an alert?
 Go to line 42 and change 2 to another number
 
-#How do I adjust what the alert looks like?
+## How do I adjust what the alert looks like?
 You can adjust it on line 28. Please be aware that improper use of code will break the bot. Please only adjust if you know what you are doing

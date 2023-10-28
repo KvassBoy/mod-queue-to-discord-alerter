@@ -17,7 +17,7 @@ print("Successfully logged in to Reddit")
 
 # Define your subreddits, Discord Webhook URLs and roles
 subreddits_discord_data = {
-    'minecraft_survival': {
+    'ADD SUBREDDIT HERE': {
         'webhook_url': 'ADD WEBOOK HERE',
         'role_id': 'ADD ROLE ID HERE'
     }
